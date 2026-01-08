@@ -1,7 +1,7 @@
 $${\color{red}11/08/2025: \space This \space repository \space has \space moved \space under \space the \space Godot \space SDK \space Integrations \space Github \space organization.}$$
 $${\color{red}Future \space releases \space will \space be \space published \space at \space the \space new \space repository:}$$
 
-### https://github.com/godot-sdk-integrations/godot-notification-scheduler
+### https://github.com/godot-mobile-plugins/godot-notification-scheduler
 
 <br/><br/>
 
